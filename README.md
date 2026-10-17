@@ -8,7 +8,17 @@ I build data pipelines, machine-learning systems, and business workflows that co
 
 **[Explore my portfolio](https://feraselghandour.github.io/) · [Connect on LinkedIn](https://www.linkedin.com/in/feras-elghandour/)**
 
-## Selected work
+## Client engagements
+
+Three anonymized accounts of commercial strategy and delivery, with documented outcomes and clear contribution boundaries.
+
+| Engagement | Delivered work and documented outcome |
+|---|---|
+| [Acquisition Economics & Profitability](https://feraselghandour.github.io/case-studies/profitability-diagnostic/) | A client-approved diagnostic connecting acquisition costs, offers, subscriptions and cash economics to a prioritized growth plan. |
+| [Commercial Systems & Sales Enablement](https://feraselghandour.github.io/case-studies/commercial-enablement/) | Market research used in strategic discussion, paired with direct sales-team enablement and a practical CRM adoption plan. |
+| [Commerce Delivery & Release QA](https://feraselghandour.github.io/case-studies/commerce-delivery/) | Commercial launch direction and specialist delivery coordination, with a client-approved locator approach and accepted bilingual corrections. |
+
+## Selected technical work
 
 | Project | Problem and implementation | Explore |
 |---|---|---|
@@ -30,4 +40,4 @@ I build data pipelines, machine-learning systems, and business workflows that co
 
 I welcome conversations about applied AI, analytics, data engineering, and commercial workflow systems, for client engagements or employment. [Contact me on LinkedIn](https://www.linkedin.com/in/feras-elghandour/).
 
-Client identities and private operating data are omitted. Public case studies use attributed public datasets or synthetic examples; each repository defines its implementation and evaluation scope.
+Client case studies summarize retained delivery records; client identities and private operating data are omitted. Public technical examples use attributed public datasets or synthetic inputs; each repository defines its implementation and evaluation scope.
