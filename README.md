@@ -10,8 +10,8 @@ I develop, train and evaluate learning systems: neural architectures, generative
 
 1. [Recursive Network Capacity Study](https://github.com/FerasElghandour/recursive-network-capacity-study): controlled topology comparisons, including a 256-model paired-seed follow-up.
 2. [Conditional Handwriting Generation](https://github.com/FerasElghandour/conditional-handwriting-generation): MLP cGAN and diffusion training across three seeds each, with portable weights and synthetic-to-real evaluation.
-3. [Shared-Policy DDPG: Tennis](https://github.com/FerasElghandour/tennis-reinforcement-learning): six fresh continuous-control training runs, with seed-level results and failure diagnostics.
-4. [Autonomous Braking](https://github.com/FerasElghandour/autonomous-braking-simulation): nine fresh Webots scenarios, independently measured stops and tested fault handling.
+3. [DDPG & TD3: Tennis](https://github.com/FerasElghandour/tennis-reinforcement-learning): ten fixed-budget continuous-control training runs, five seeds per pipeline, portable actors and held-out failure diagnostics.
+4. [Autonomous Braking](https://github.com/FerasElghandour/autonomous-braking-simulation): 66 at-speed Webots runs, moving targets and sensor faults; 27/33 pass per policy, with contacts retained.
 5. [Sensor Fusion Policy Engine](https://github.com/FerasElghandour/sensor-fusion-policy-engine): camera/radar association, release policies and decision provenance. Synthetic evaluation.
 6. [Predictive Maintenance](https://github.com/FerasElghandour/predictive-maintenance): model selection and warning-policy replay on historical engine data.
 
