@@ -8,12 +8,16 @@ I develop, train and evaluate learning systems: neural architectures, generative
 
 ## Selected work
 
-1. [Recursive Network Capacity Study](https://github.com/FerasElghandour/recursive-network-capacity-study): topology, model training and controlled comparisons. Independent research.
-2. [Shared-Policy DDPG: Tennis](https://github.com/FerasElghandour/tennis-reinforcement-learning): continuous-control training and saved-policy evaluation.
-3. [Conditional Handwriting Generation](https://github.com/FerasElghandour/conditional-handwriting-generation): fresh MLP cGAN and conditional diffusion training across three seeds, with synthetic-to-real evaluation, FID and replayable classifier results.
-4. [Autonomous Braking](https://github.com/FerasElghandour/autonomous-braking-simulation): sensing, braking logic and ground-truth telemetry in Webots.
+1. [Recursive Network Capacity Study](https://github.com/FerasElghandour/recursive-network-capacity-study): controlled topology comparisons, including a 256-model paired-seed follow-up.
+2. [Conditional Handwriting Generation](https://github.com/FerasElghandour/conditional-handwriting-generation): MLP cGAN and diffusion training across three seeds each, with portable weights and synthetic-to-real evaluation.
+3. [Shared-Policy DDPG: Tennis](https://github.com/FerasElghandour/tennis-reinforcement-learning): six fresh continuous-control training runs, with seed-level results and failure diagnostics.
+4. [Autonomous Braking](https://github.com/FerasElghandour/autonomous-braking-simulation): nine fresh Webots scenarios, independently measured stops and tested fault handling.
 5. [Sensor Fusion Policy Engine](https://github.com/FerasElghandour/sensor-fusion-policy-engine): camera/radar association, release policies and decision provenance. Synthetic evaluation.
 6. [Predictive Maintenance](https://github.com/FerasElghandour/predictive-maintenance): model selection and warning-policy replay on historical engine data.
+
+## Independent research
+
+[Recursive Composition Benchmark](https://github.com/FerasElghandour/recursive-composition-benchmark) complements Capacity: nine conditions across five seeds separate tree shape, shared composition and staged training. All 45 runs were reproduced; the balanced-tree hypothesis failed in this controlled task.
 
 ## Model development and training
 
@@ -21,4 +25,4 @@ More training work: [CNNs](https://github.com/FerasElghandour/handwritten-digit-
 
 Robot learning and physical AI are research directions, building on my current simulation and prototype work. Project documentation identifies contributions, historical results and reproducibility limits.
 
-[Illustrated project gallery](https://feraselghandour.github.io/#work) · [Client work](https://feraselghandour.github.io/#client-work)
+[Illustrated project gallery](https://feraselghandour.github.io/#work) · [Composition research](https://feraselghandour.github.io/#research) · [Client work](https://feraselghandour.github.io/#client-work)
