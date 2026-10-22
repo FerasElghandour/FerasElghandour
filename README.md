@@ -2,7 +2,7 @@
 
 **AI Research Engineer | Deep Learning & Autonomous Systems**
 
-I develop, train and evaluate learning systems: neural architectures, generative models and reinforcement-learning policies. I connect model behavior to measurable decisions in simulation and engineering prototypes.
+I develop, train and evaluate learning systems: neural architectures, generative models and reinforcement-learning. 
 
 [Portfolio & results](https://feraselghandour.github.io/) · [LinkedIn](https://www.linkedin.com/in/feras-elghandour/)
 
